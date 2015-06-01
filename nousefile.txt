@@ -2,3 +2,6 @@ this is a useless file,we all don't use it ,so let's used it to do a test.
 
 add a new line 
 creating a new branch is quick
+
+
+now i create a new branch which is fearture1.
