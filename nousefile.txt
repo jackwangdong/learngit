@@ -4,4 +4,11 @@ add a new line
 creating a new branch is quick
 
 
+/*<<<<<<< HEAD
 i modifed something in master,at there it's not in feature1.
+=======
+now i create a new branch which is fearture1.
+>>>>>>> feature1*/
+
+
+now i create a new branch which is fearture1.
