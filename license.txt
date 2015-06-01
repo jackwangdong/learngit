@@ -1,0 +1,9 @@
+secend file.
+
+
+it's information is git test, it contans master,head,
+
+
+it is all for git commit /  git add 
+
+ok
