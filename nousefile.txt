@@ -12,3 +12,5 @@ now i create a new branch which is fearture1.
 
 
 now i create a new branch which is fearture1.
+
+in order to test --no--ff,i create a branch dev3.
